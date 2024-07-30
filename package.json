@@ -5,7 +5,6 @@
     "type": "git",
     "url": "https://github.com/yevhenii-sulim/test-task-angular.git"
   },
-  "bugs": "https://github.com/yevhenii-sulim/test-task-angular/issues",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
