@@ -16,7 +16,6 @@ interface StyleMessage {
 })
 
 export class FormPassComponent {
-  title = 'Password'
   password = new FormControl('');
 
 
